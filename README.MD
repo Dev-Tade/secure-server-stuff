@@ -1,6 +1,6 @@
 # Secure Server Stuff
 
-All rights for: LowLevelLearning.
+Be sure to follow: LowLevelLearning.
 
 Original explanation: <br/>
 https://www.youtube.com/watch?v=fjMrDDj47E8&t=261s <br/>
